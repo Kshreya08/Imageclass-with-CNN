@@ -1,7 +1,10 @@
 # Image Classification with CNN
 
 ## Overview
-Classify images using Convolutional Neural Networks (CNNs) in Python.
+ Developed a Neural Network model for Image Classification, using TensorFlow, Keras, Matplot, Numpy Libraries in
+ Python achieving high accuracy by employing sophisticated architecture.
+ Concept Used: ML, Deep Learning, Python, Computer Vision, AI.
+
 
 ## Project Structure
 ```
